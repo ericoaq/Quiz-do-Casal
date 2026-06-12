@@ -93,29 +93,29 @@ export const DessertRoulette: React.FC<DessertRouletteProps> = ({ onComplete }) 
           >
             {/* Segment Contents */}
             {/* Sector 1: Pétit gateau (Top Right, 0-90deg) */}
-            <div className="absolute top-0 right-0 w-[50%] h-[50%] origin-bottom-left flex items-center justify-center pointer-events-none">
-              <span className="font-sans text-[11px] font-bold text-[#5c0d16] -rotate-45 translate-x-3 -translate-y-3 text-center select-none leading-tight">
+            <div className="absolute top-0 right-0 w-[60%] h-[60%] origin-bottom-left flex items-center justify-center pointer-events-none">
+              <span className="font-sans text-[14px] font-bold text-[#5c0d16] -rotate-45 translate-x-3 -translate-y-3 text-center select-none leading-tight">
                 Pétit<br/>gateau
               </span>
             </div>
 
             {/* Sector 2: Brownie com sorvete (Bottom Right, 90-180deg) */}
-            <div className="absolute bottom-0 right-0 w-[50%] h-[50%] origin-top-left flex items-center justify-center pointer-events-none">
-              <span className="font-sans text-[11px] font-bold text-[#c9184a] rotate-45 translate-x-3 translate-y-3 text-center select-none leading-tight">
+            <div className="absolute bottom-0 right-0 w-[60%] h-[60%] origin-top-left flex items-center justify-center pointer-events-none">
+              <span className="font-sans text-[14px] font-bold text-[#c9184a] rotate-45 translate-x-3 translate-y-3 text-center select-none leading-tight">
                 Brownie<br/>sorvete
               </span>
             </div>
 
             {/* Sector 3: Fundue de chocolate (Bottom Left, 180-270deg) */}
-            <div className="absolute bottom-0 left-0 w-[50%] h-[50%] origin-top-right flex items-center justify-center pointer-events-none">
-              <span className="font-sans text-[11px] font-bold text-white -rotate-45 -translate-x-3 translate-y-3 text-center select-none leading-tight">
+            <div className="absolute bottom-0 left-0 w-[60%] h-[60%] origin-top-right flex items-center justify-center pointer-events-none">
+              <span className="font-sans text-[14px] font-bold text-white -rotate-45 -translate-x-3 translate-y-3 text-center select-none leading-tight">
                 Fundue<br/>chocolate
               </span>
             </div>
 
             {/* Sector 4: Pipoca doce (Top Left, 270-360deg) */}
-            <div className="absolute top-0 left-0 w-[50%] h-[50%] origin-bottom-right flex items-center justify-center pointer-events-none">
-              <span className="font-sans text-[11px] font-bold text-[#c9184a] rotate-45 -translate-x-3 -translate-y-3 text-center select-none leading-tight">
+            <div className="absolute top-0 left-0 w-[60%] h-[60%] origin-bottom-right flex items-center justify-center pointer-events-none">
+              <span className="font-sans text-[14px] font-bold text-[#c9184a] rotate-45 -translate-x-3 -translate-y-3 text-center select-none leading-tight">
                 Pipoca<br/>doce
               </span>
             </div>
