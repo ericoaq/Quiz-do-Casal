@@ -48,7 +48,7 @@ export const CoupleCelebration: React.FC<CoupleCelebrationProps> = ({
           <div className="grid grid-cols-2 gap-2 mt-4 pt-4 border-t border-[#ffe5ec] text-left">
             <div className="bg-[#ffe5ec] p-2.5 rounded-xl border border-[#ffccd5]">
               <span className="text-[10px] font-bold text-[#c9184a] block uppercase">Nossas Alianças 💍</span>
-              <span className="font-bold text-[#5c0d16] text-[11px]">08/08/2024</span>
+              <span className="font-bold text-[#5c0d16] text-[11px]">03/08/2024</span>
             </div>
             <div className="bg-[#ffe5ec] p-2.5 rounded-xl border border-[#ffccd5]">
               <span className="text-[10px] font-bold text-[#c9184a] block uppercase">Nossa Sobremesa 🎂</span>
