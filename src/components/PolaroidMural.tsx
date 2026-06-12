@@ -55,7 +55,7 @@ export const PolaroidMural: React.FC<PolaroidMuralProps> = ({
       id: "aliancas",
       title: "Passo das Alianças 💍",
       date: "03 de Agosto de 2024",
-      imageSrc: customPhotos["aliancas"] || "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?auto=format&fit=crop&q=80&w=400",
+      imageSrc: customPhotos["aliancas"] || "https://6a2c08a69e041c30a1861e9e.imgix.net/WhatsApp%20Image%202026-06-08%20at%2018.54.15.jpeg?auto=format&fit=crop&q=80&w=400",
       tag: "O COMEÇO",
       sticker: "🌟",
       backText: "No dia 03/08/2024, nossas mãos se uniram. Colocar a aliança no seu dedo foi o meu sim mais feliz, uma marca na história das nossas vidas que brilha forte! ❤️"
@@ -64,7 +64,7 @@ export const PolaroidMural: React.FC<PolaroidMuralProps> = ({
       id: "couple",
       title: "Nós Dois Juntos 👩‍❤️‍👨",
       date: "Nosso Olhar Eterno",
-      imageSrc: customPhotos["couple"] || "https://images.unsplash.com/photo-1518199266791-5375a83164ba?auto=format&fit=crop&q=80&w=400",
+      imageSrc: customPhotos["couple"] || "https://6a2c08a69e041c30a1861e9e.imgix.net/WhatsApp%20Image%202026-06-08%20at%2018.54.15%20(1).jpeg?auto=format&fit=crop&q=80&w=400",
       tag: "DIA DOS NAMORADOS",
       sticker: "💖",
       backText: "Amanhã faltará apenas 1 mês para completarmos dois anos. Amo você ontem, hoje e para sempre!"
@@ -73,7 +73,7 @@ export const PolaroidMural: React.FC<PolaroidMuralProps> = ({
       id: "doce",
       title: `Casal Perfeito ✨`,
       date: "Momentos Mágicos",
-      imageSrc: customPhotos["doce"] || "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?auto=format&fit=crop&q=80&w=400",
+      imageSrc: customPhotos["doce"] || "https://6a2c08a69e041c30a1861e9e.imgix.net/IMG_7026%20(1).jpeg?auto=format&fit=crop&q=80&w=400",
       tag: "NOSSO MOMENTO",
       sticker: "📸",
       backText: `Você escolheu saborear ${selectedDessert} hoje à noite! Para selar nosso romance da forma mais doce possível. Aguarde esse carinho divino no nosso jantar ideal hoje. Te amo demais! 😋🍒`
