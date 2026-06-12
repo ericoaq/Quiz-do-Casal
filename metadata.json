@@ -1,0 +1,6 @@
+{
+  "name": "Quiz de Casal",
+  "description": "Um quiz romântico e interativo para casais, com perguntas personalizadas, roleta de sobremesas e um termômetro de amor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

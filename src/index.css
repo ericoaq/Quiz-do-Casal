@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600;1,700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Montserrat", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Playfair Display", ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  
+  --color-primary: #ff4d6d;
+  --color-primary-hover: #ff758f;
+  --color-cream-surface: #fff0f5;
+  --color-surface-variant: #ffe5ec;
+  --color-outline-variant: #ffb3c1;
+  --color-secondary-container: #fed65b;
+}
+
+@keyframes heartbeat {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+}
+
+.animate-heartbeat {
+  animation: heartbeat 1.2s infinite ease-in-out;
+}
+
+body {
+  background-color: #ffe5ec;
+  font-family: var(--font-sans);
+}
+
